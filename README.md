@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">⋅˚₊‧ 𐙚 ‧₊˚ ⋅ roxanne's github ⋅˚₊‧ 𐙚 ‧₊˚ ⋅</h1>
+<h1 align="center"> Roxanne Tan </h1>
 
 ###
 
-<h3 align="left">about:</h3>
+<h3 align="left">About:</h3>
 
 ###
 
